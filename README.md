@@ -46,6 +46,7 @@
 ## Time-series Database
 * [OpenTSDB](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series [Database](https://opentsdb.net/).
 * [QuestDB](https://github.com/questdb/questdb) - [QuestDB](https://questdb.com/) is a high performance, open-source, time-series database.
+* [TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series [database](https://tdengine.com/) designed for Industrial IoT (IIoT) scenarios
 
 ## Machine Learning Toolkit for Time Series Analysis
 * [sktime](https://github.com/sktime/sktime) - A [unified framework](https://www.sktime.net/) for machine learning with time series.
