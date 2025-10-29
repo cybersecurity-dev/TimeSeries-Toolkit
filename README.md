@@ -42,3 +42,7 @@
  ```
  
  </details>
+
+
+## Machine Learning Toolkit for Time Series Analysis
+* [sktime](https://github.com/sktime/sktime) - A [unified framework](https://www.sktime.net/) for machine learning with time series.
