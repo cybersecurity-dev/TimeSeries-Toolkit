@@ -53,3 +53,7 @@
 * [sktime](https://github.com/sktime/sktime) - A [unified framework](https://www.sktime.net/) for machine learning with time series.
 * [tsai](https://github.com/timeseriesAI/tsai) - State-of-the-art Deep Learning [library](https://timeseriesai.github.io/) for Time Series and Sequences.
 * [tslearn](https://github.com/tslearn-team/tslearn) - [tslearn](https://tslearn.readthedocs.io/) is a Python package that provides machine learning tools for the analysis of time series. 
+
+## Miscellaneous
+* [binjr](https://github.com/binjr/binjr) - [binjr](https://binjr.eu/) is a standalone time series browser.
+
