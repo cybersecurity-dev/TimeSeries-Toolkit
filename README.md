@@ -51,20 +51,6 @@
  
  </details>
 
-## Time-series Database
-* [OpenTSDB](https://github.com/OpenTSDB/opentsdb) - A scalable, distributed Time Series [Database](https://opentsdb.net/).
-* [Prometheus](https://github.com/prometheus/prometheus) - The [Prometheus](https://prometheus.io/) monitoring system and time series database.
-* [QuestDB](https://github.com/questdb/questdb) - [QuestDB](https://questdb.com/) is a high performance, open-source, time-series database.
-* [TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series [database](https://tdengine.com/) designed for Industrial IoT (IIoT) scenarios
-
-## Machine Learning Toolkit for Time Series Analysis
-* [aeon](https://github.com/aeon-toolkit/aeon) - [aeon](https://www.aeon-toolkit.org/) is a scikit-learn compatible toolkit for time series machine learning tasks such as [classification](https://wikipedia.org/wiki/Classification), [regression](https://wikipedia.org/wiki/Regression_analysis), [clustering](https://wikipedia.org/wiki/Cluster_analysis), [anomaly detection](https://en.wikipedia.org/wiki/Anomaly_detection), [segmentation](https://wikipedia.org/wiki/Time-series_segmentation) and [similarity search](https://wikipedia.org/wiki/Similarity_search).
-* [sktime](https://github.com/sktime/sktime) - A [unified framework](https://www.sktime.net/) for machine learning with time series.
-* [tsai](https://github.com/timeseriesAI/tsai) - State-of-the-art Deep Learning [library](https://timeseriesai.github.io/) for Time Series and Sequences.
-* [tslearn](https://github.com/tslearn-team/tslearn) - [tslearn](https://tslearn.readthedocs.io/) is a Python package that provides machine learning tools for the analysis of time series. 
-
-## Miscellaneous
-* [binjr](https://github.com/binjr/binjr) - [binjr](https://binjr.eu/) is a standalone time series browser.
 
 ##
 
